@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Atef Magdy</h1>
 <h2 align="center">I’m passionate about software development and I’m looking forward to getting to work on new projects in the near future</h2>
-<h3 align="center">Currently employed as a Software Engineer at Insight Technology, I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems</h3>
+<h3 align="center">Currently employed as a Software Engineer at RDI-EG, I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atef-magdy&label=Profile%20views&color=0e75b6&style=flat" alt="atef-magdy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atef-magdy" alt="atef-magdy" /></a> </p>
 
-- 🌱 I’m currently learning **Domino Designer, LotusScript**
+- 🌱 I’m currently learning **Python & Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
